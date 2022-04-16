@@ -1,0 +1,24 @@
+.menu_superior{
+	background-color: #cccccc;
+	height: 200px;
+	width: 1570px;
+}
+.lado_esquerdo{
+	background-color: #f3f3f3;
+	height: 398px;
+	width: 448px;
+}
+.conteudo{
+	position: relative;
+	height: 398px;
+	width: 1120px;
+	top: -400px;
+	left: 450px;
+}
+.barra_inferior{
+	background-color: #cccccc;
+	position: relative;
+	height: 150px;
+	width: 1570px;
+	top: -399px
+}
